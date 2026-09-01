@@ -5,9 +5,9 @@ for each teaching day live in the directories described below.
 
 ## Course location
 
-Room TBD  
-TBD  
-[directions](https://samf.ku.dk/kontakt/findvej/)
+Room 07-1-46  
+CSS, Oester Farimagsgade 5  
+[directions](https://globe.ku.dk/contact/hologenomics/)
 
 ## Contact information
 
@@ -18,18 +18,22 @@ Martin Sikora
 
 ### Teachers
 
-Shyam Gopalakrishnan  
-<shyam.gopalakrishnan@sund.ku.dk>
-
-Antonio Fernandez Guerra  
-<antonio.fernandez-guerra@sund.ku.dk>
-
 Thorfinn Sand Korneliussen  
 <tskorneliussen@sund.ku.dk>
 
+Bryant Chambers  
+<bryant.a.chambers@sund.ku.dk>
+
+Laurits Skov  
+<laurits.skov@sund.ku.dk>
+
+Guillermo Rangel  
+<guillermo.pineros@sund.ku.dk>
+
+
 ## Schedule
 
-Two teaching weeks, Monday to Thursday. Daily structure:
+Two teaching weeks, Monday to Wednesday, Friday. Daily structure:
 
 | Time | Activity |
 | --- | --- |
@@ -39,39 +43,40 @@ Two teaching weeks, Monday to Thursday. Daily structure:
 
 ### Week 1
 
-**Day 1 - date TBD**  
-Introduction, data visualization and wrangling 1  
+**Day 1 - Monday, September 7**  
+Introduction, bash and R  
 *Thorfinn Sand Korneliussen / Martin Sikora*
 
-**Day 2 - date TBD**  
-Data visualization and wrangling 2  
+**Day 2 - Tuesday, September 8**  
+Data visualization and data wrangling  
 *Martin Sikora*
 
-**Day 3 - date TBD**  
-Probability theory 1  
-*Shyam Gopalakrishnan*
+**Day 3 - Wednesday, September 9**  
+Workflows and reproducible research 1  
+*Bryant Chambers / Guillermo Rangel*
 
-**Day 4 - date TBD**  
-Supervised learning  
-*Shyam Gopalakrishnan*
+**Day 4 - Friday, September 11**  
+Workflows and reproducible research 2  
+*Bryant Chambers / Guillermo Rangel*
 
 ### Week 2
 
-**Day 5 - date TBD**  
-Unsupervised learning  
-*Shyam Gopalakrishnan*
+**Day 5 - Monday, September 14**  
+Probability theory  
+*Laurits Skov*
 
-**Day 6 - date TBD**  
-Workflows and reproducible research  
-*Antonio Fernandez Guerra*
+**Day 6 - Tuesday, September 15**  
+Linear models  
+*Laurits Skov*
 
-**Day 7 - date TBD**  
-Project preparation  
-*Martin Sikora / Shyam Gopalakrishnan*
+**Day 7 - Wednesday, September 16**  
+Exploratory data analysis 1  
+*Martin Sikora*
 
-**Day 8 - date TBD**  
-Project presentations  
-*Martin Sikora / Shyam Gopalakrishnan*
+**Day 8 - Friday, September 18**  
+Exploratory data analysis 2  
+*Martin Sikora*
+
 
 ## Repository layout
 
@@ -85,8 +90,7 @@ Project presentations
 | `workspaces/` | Cloud workspace templates (Terraform / Docker) |
 | `img/` | Figures produced by the course material |
 
-## Course materials
+## Useful reading
 
 - Wilke - [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/)
 - Wickham & Grolemund - [R for Data Science](https://r4ds.hadley.nz/)
-- MD Edge - Statistical Thinking from Scratch
