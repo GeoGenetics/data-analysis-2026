@@ -52,22 +52,23 @@ Data visualization and data wrangling
 *Martin Sikora*
 
 **Day 3 - Wednesday, September 9**  
-Workflows and reproducible research 1  
-*Bryant Chambers / Guillermo Rangel*
+Probability theory  
+*Laurits Skov*
 
 **Day 4 - Friday, September 11**  
-Workflows and reproducible research 2  
-*Bryant Chambers / Guillermo Rangel*
+Linear models  
+*Laurits Skov*
 
 ### Week 2
 
 **Day 5 - Monday, September 14**  
-Probability theory  
-*Laurits Skov*
+Workflows and reproducible research 1  
+*Bryant Chambers / Guillermo Rangel*
 
 **Day 6 - Tuesday, September 15**  
-Linear models  
-*Laurits Skov*
+Workflows and reproducible research 2  
+*Bryant Chambers / Guillermo Rangel*
+
 
 **Day 7 - Wednesday, September 16**  
 Exploratory data analysis 1  
