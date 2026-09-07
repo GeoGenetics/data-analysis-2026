@@ -50,3 +50,6 @@ rsconnect/
 
 # Mac aux files
 .DS_Store
+
+# Full OWID download - not committed, see scripts/make_extracts.R
+data-raw/
