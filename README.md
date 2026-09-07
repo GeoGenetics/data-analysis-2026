@@ -74,7 +74,7 @@ Workflows and reproducible research 2
 Exploratory data analysis 1  
 *Martin Sikora*
 
-**Day 8 - Friday, September 18**  
+**Day 8 - Thursday, September 17**  
 Exploratory data analysis 2  
 *Martin Sikora*
 
