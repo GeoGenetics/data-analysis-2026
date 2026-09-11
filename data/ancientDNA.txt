@@ -1,6 +1,6 @@
-Pop	time_since_geneflow	radiocarbon_date
-CEU	1628.8275862069	0
-Clovis	1005.86206896552	12509
-Malta1	769	23891
-Kostenki14	208.51724137931	36262
-Ust-Ishim	91.9310344827586	43210
+Pop,time_since_geneflow,radiocarbon_date
+CEU,1628,0
+Clovis,1005,12509
+Malta1,769,23891
+Kostenki14,208,36262
+Ust-Ishim,91,43210
